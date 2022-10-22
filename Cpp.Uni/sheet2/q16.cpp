@@ -14,3 +14,11 @@ int main(int argc, char const *argv[])
 
 	return 0;
 }
+/*	
+	┌──(kali㉿kali)-[~/Desktop/sheet2]
+	└─$ ./q16                            
+	Enter three numbers
+	1 2 5 
+	Claculating payrol
+	result: 10  
+*/                                                                                

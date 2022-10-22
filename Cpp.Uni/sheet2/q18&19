@@ -1,0 +1,33 @@
+
+18-What prints if x=2 y=3 :
+            
+a)cout << x;   					==> 2
+b)cout << x+x;					==> 4
+c)cout << "x="					==> x=
+d)cout << "x = " << x;			==> x = 2
+e)cout << x+y << " = " << y+x;	==> 5 = 5
+f)z=x+y;						==> NOTHING
+g)cin >> x >> y;				==> NOTHING
+h)//cout << "x+y=" << x+y;		==> NOTHING
+i)cout << "\n";					==>
+								==>
+                      ~~~~~~~~~~~~~~~~~~~~
+
+19-which statments have variables whose values are replaced?:
+
+a)cin >> b >> c >> d >> e >>f;					==> no
+b)p = i+j+k+7;									==> yes
+c)cout << "variables that are destroyed";		==> no
+d)cout << "a=5";								==> no								
+                      ~~~~~~~~~~~~~~~~~~~~
+
+20-Given y = ax3+7 , which of the following is true:
+
+a) y = a*x*x*x+7;			==> true
+b) y = a*x*x*(x+7);			==> false
+c) y = (a*x)*x*(x+7);		==> false
+d) y = (a*x)*x*x+7;			==> true
+e) y = a*(x*x*x)+7;			==> true
+f) y = a*x*(x*x+7);         ==> false
+
+THANK YOU       
