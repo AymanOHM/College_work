@@ -1,0 +1,40 @@
+
+17- State which of the following are true and which are false.
+    If false, explain your answers.:
+
+a) C++ operators are evaluated from left to right. 
+
+==>false, operators have different priorities
+
+b) The following are all valid variable names: _under_bar_, m928134, t5, j7, 
+her_sales,his_account_total, a, b, c, z, z2. 
+
+==>true
+
+c) The statement cout<< "a = 5;"; is a typical example of an assignment statement. 
+
+==>false, this is an output statment
+
+d) A valid C++ arithmetic expression with no parentheses is evaluated from left to right.
+
+==>false, operators have different priorities
+
+e) The following are all invalid variable names: 3g, 87, 67h2, h22, 2h 
+
+==>false, h22 is valid
+
+~~~~~~~~~~~~~~~
+
+21- State the order of evaluation of the operators in each of the following C++ statements and 
+show the value of x after each statement is performed.
+a) x = 7 + 3 * 6 / 2 - 1;  
+
+==> * -> / -> + -> - 
+
+b) x = 2 % 2 + 2 * 2 - 2 / 2; 
+
+==> % -> * -> / -> + -> -
+
+c) x = ( 3 * 9 * ( 3 + ( 9 * 3 / ( 3 ) ) ) );
+
+==> * -> / -> + -> * -> *
